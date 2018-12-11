@@ -14,21 +14,22 @@ One day One Theory, and at least solving one problem.
 
 ## Basic Algorithm Chapter
 
-[1] Array, Tree, Stack, Queue, Graph, Heap
-[2] BFS, DFS
-[3] Sort 
-[4] Backtracking
-[5] Dynamic Programming
-[6] Divide and conquer algorithm
+[1] Array, Tree, Stack, Queue, Graph, Heap    
+[2] BFS, DFS    
+[3] Sort       
+[4] Backtracking     
+[5] Dynamic Programming     
+[6] Divide and conquer algorithm      
 
 ### Data structure (Array, Tree, Stack, Queue, Graph, Heap)
-
+---
 ### BFS DFS
-
+---
 ### Sort
-
+---
 ### Backtracking
-
+---
 ### Dynamic Programming
-
+---
 ### Divide and conquer algorithm
+---
