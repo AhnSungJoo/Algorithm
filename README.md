@@ -2,9 +2,7 @@
 Solved Baekjoon online judge
 This repository goals is SW test level B
 
----
 ## Helpful sites
----
 ### Theory
 [1]  How to study Algorithms? http://baactree.tistory.com/52      
 [2]  Go for samsung SW test level B http://baactree.tistory.com/53      
