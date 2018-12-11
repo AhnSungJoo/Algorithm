@@ -1,6 +1,6 @@
 # Algorithm
 Solved Baekjoon online judge    
-This repository goals is SW test level B    
+This repository goal is SW test level B    
 One day One Theory, and at least solving one problem.
 
 ## Helpful sites
