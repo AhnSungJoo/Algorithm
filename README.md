@@ -38,7 +38,7 @@ Apple이다. 배열은 프로그래밍시 자주 사용되는 자료구조로 �
 트리 구조 역시 굉장히 많이 사용되는 자료구조이므로 BT, BST 뿐만 아니라 여러 트리 형태를 구현할 줄 아는 것이 프로그래밍할 때 좋은 무기를 가질 수 있다.     
 ## Stack 
 
-![택스트][https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%9D#/media/File:Data_stack.svg]
+![텍스트](https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%9D#/media/File:Data_stack.svg)
 
 ### BFS DFS
 ---
